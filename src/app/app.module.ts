@@ -16,7 +16,7 @@ import { ProductListComponent } from './product-list/product-list.component';
     ProductPageComponent,
     ProductDescriptionComponent,
     ProductTracklistingComponent,
-    ProductListComponent
+    ProductListComponent,
   ],
   imports: [
     BrowserModule,
